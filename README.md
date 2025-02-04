@@ -5,5 +5,4 @@ A repo dedicated to summaries in computer science, the repo is under constructio
 ## Current Abstracts:
 
 -Databases
-
 -Algorithms
